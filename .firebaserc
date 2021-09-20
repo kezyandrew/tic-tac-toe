@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "news-6c25b": {
+      "hosting": {
+        "tic-tac-toe": [
+          "news-6c25b"
+        ]
+      }
+    }
+  }
+}
